@@ -26,6 +26,9 @@ nav{
     background-color: #111;
     
   }
+  h1{
+    color : rgb(128, 15, 90);
+  }
   #about{
     clear: left;
   }
