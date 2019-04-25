@@ -29,6 +29,9 @@ nav{
   h1{
     color : rgb(128, 15, 90);
   }
+  h2{
+    clear:center;
+  }
   #about{
     clear: left;
   }
@@ -43,18 +46,14 @@ nav{
   }
 
 img{
-    float:left;
+    float:center;
     border-radius: 50%;
    }
   
 #work{
     text-align:left;
 }
-#class{
-  flex-direction: row;
-  float:right;
-}
-  
+
 
 span{
   color:brown;
